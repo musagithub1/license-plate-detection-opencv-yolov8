@@ -1,0 +1,32 @@
+# Build directories
+/build/
+/cmake-build-*/
+
+# Object and binary files
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VSCode / CLion / IDE files
+.vscode/
+.idea/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Virtual environments
+.venv/
+venv/
